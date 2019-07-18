@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\bin\Debug\MultiClient_TCP_Server.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\bin\Debug\MultiClient_TCP_Server.exe
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\bin\Debug\MultiClient_TCP_Server.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.exe
+c:\users\administrator\documents\visual studio 2015\Projects\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.pdb
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\bin\Debug\MultiClient_TCP_Server.exe.config
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.exe
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.pdb
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\bin\Debug\MultiClient_TCP_Server.exe
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\bin\Debug\MultiClient_TCP_Server.pdb
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.csprojResolveAssemblyReference.cache
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.Form1.resources
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.Properties.Resources.resources
+C:\Users\lee.dong.geun.note\Desktop\MultiClient_TCP_Server\MultiClient_TCP_Server\obj\Debug\MultiClient_TCP_Server.csproj.GenerateResource.Cache
